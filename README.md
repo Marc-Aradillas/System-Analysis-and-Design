@@ -1,5 +1,9 @@
 # DriverPass System Project
 
+# Gantt Chart: 
+
+![image](https://github.com/Marc-Aradillas/System-Analysis-and-Design/assets/106922826/fd4957a3-418f-4533-9551-ace5b2cc5689)
+
 # Project Scenario: 
 
 The project is a scenario in which you are assigned as the System Analyst on the DriverPass Project:
@@ -14,3 +18,4 @@ The project is a scenario in which you are assigned as the System Analyst on the
 # Project Goal:
 
 Create UML Diagrams for the Driver pass System and Create a Presentation for a non-technical audience with appropriate wording and communication.
+
