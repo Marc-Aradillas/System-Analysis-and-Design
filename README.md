@@ -27,6 +27,27 @@ This project will deliver the following:
 * **UML Diagrams (Lucidchart):** Visual representations of the system's structure and behavior.
 * **Non-Technical Presentation (Slides):** A clear and concise presentation explaining the system to DriverPass stakeholders.
 
+![use_case](https://github.com/Marc-Aradillas/System-Analysis-and-Design/assets/106922826/f1e34d62-2872-4ea1-85c0-17a4d461837c)
+<br>
+<br>
+<br>
+![activity_1](https://github.com/Marc-Aradillas/System-Analysis-and-Design/assets/106922826/4fe6d9b3-9d0b-4b0c-bbb6-0d5d1dbf9952)
+<br>
+<br>
+<br>
+![activity_2](https://github.com/Marc-Aradillas/System-Analysis-and-Design/assets/106922826/d1591c09-54f9-4387-99b5-4c61fc50d485)
+<br>
+<br>
+<br>
+![sequence](https://github.com/Marc-Aradillas/System-Analysis-and-Design/assets/106922826/e259894c-aa8f-4533-b3b7-3b84ea4bd635)
+<br>
+<br>
+<br>
+![class](https://github.com/Marc-Aradillas/System-Analysis-and-Design/assets/106922826/13651b18-d236-4c61-9ac5-0c3f71229964)
+
+
+
+
 ## Getting Started
 
 1. Clone this repository.
