@@ -1,21 +1,37 @@
-# DriverPass System Project
+## DriverPass System Project
 
-# Gantt Chart: 
+**Table of Contents**
 
-![image](https://github.com/Marc-Aradillas/System-Analysis-and-Design/assets/106922826/fd4957a3-418f-4533-9551-ace5b2cc5689)
+* [Introduction](#introduction)
+* [Project Overview](#project-overview)
+* [Deliverables](#deliverables)
+* [Getting Started](#getting-started)
 
-# Project Scenario: 
+## Introduction
 
-The project is a scenario in which you are assigned as the System Analyst on the DriverPass Project:
-"You work for a small consulting company that designs systems for various clients. Your project lead has assigned you to a new client, DriverPass. DriverPass noticed that there are very few tools that train students to pass their driving tests. Their research has found that more than 65% of the students applying for the driving license exam fail since all they did was study previous tests! DriverPass wants to provide students with access to online practice exams and on-the-road training to better prepare them for driving tests. DriverPass wants your help in designing a system that can handle these needs. The system has several stakeholders including IT, management, and customers."
+The DriverPass System project simulates a scenario where you, as a system analyst, design a system for a client named DriverPass. DriverPass aims to provide online practice exams and on-the-road training to help students prepare for their driving tests.
 
-"Your project lead has recently assigned you to take over as the systems analyst for the DriverPass project. She has asked you to complete a business requirements document that accurately captures DriverPass’s needs. Your project lead would also like you to provide a brief analysis of both a process- and an object-modeling approach to designing this system."
+## Project Overview
 
-"You work for a small consulting company that designs systems for various clients. You are continuing to work on a system for DriverPass. Previously, you completed a business requirements document for your project lead that articulated DriverPass’s needs. You also made a suggestion regarding which approach—object or process—your company should take. Based on your excellent work thus far, your project lead would like you to continue designing the system for DriverPass. Your project lead ultimately decided on a blended approach that incorporates the best of object and process modeling. She has asked you to complete a system design document, which will include several UML diagrams and a description of the technical requirements for the DriverPass system. This design document will eventually be shared with the developers on your team who will implement your design."
+This project focuses on the design and communication of a system for DriverPass, achieved through:
 
-"Finally, your project lead has asked you to create a short presentation for the client based on your design. You will be asked to communicate different components of the system and how they meet DriverPass’s needs. Since this information will be presented to the client, you will need to avoid the use of technical jargon."
+* **Business Requirements Document:** Capturing DriverPass's needs and functionalities using a Word document.
+* **System Design Document:** Detailing the system's technical specifications using UML diagrams created in Lucidchart.
+* **Non-Technical Presentation:** Communicating the system's features and benefits to DriverPass in a clear and understandable manner using presentation slides.
 
-# Project Goal:
+## Deliverables
 
-Create UML Diagrams for the Driver pass System and Create a Presentation for a non-technical audience with appropriate wording and communication.
+This project will deliver the following:
 
+* **Business Requirements Document (Word Doc):** A comprehensive document outlining DriverPass's system requirements.
+* **UML Diagrams (Lucidchart):** Visual representations of the system's structure and behavior.
+* **Non-Technical Presentation (Slides):** A clear and concise presentation explaining the system to DriverPass stakeholders.
+
+## Getting Started
+
+1. Clone this repository.
+2. Open the `Business Requirements Document.docx` file to understand DriverPass's needs.
+3. Explore the `UML Diagrams` folder containing Lucidchart files representing the system design.
+4. Review the `Presentation Slides.pptx` file for a clear explanation of the system aimed at a non-technical audience.
+
+**Note:** Since this project focuses on non-technical aspects, the "Technical Details" section is omitted.
