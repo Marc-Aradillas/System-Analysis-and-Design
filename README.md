@@ -45,8 +45,6 @@ This project will deliver the following:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* **Non-Technical Presentation (Slides):** A clear and concise presentation explaining the system to DriverPass stakeholders.
-
 ## Journal
 
 The DriverPass project was an endeavor aimed at developing a comprehensive system tailored for a client (DriverPass) in need of a robust solution for managing driver information and scheduling processes efficiently. The primary goal was to design and implement a user-friendly system that streamlined the management of drivers' schedules, licenses, and related documentation.
@@ -63,11 +61,14 @@ Considering the user's needs is paramount in system design as it directly impact
 
 In approaching software design, a systematic and iterative approach was adopted. This involved phases such as requirements analysis, system design, implementation, testing, and deployment. Techniques such as use case modeling, prototyping, and agile methodologies were employed to facilitate collaboration, manage project scope, and ensure alignment with the client's evolving needs. Moving forward, I would continue to leverage these techniques while also exploring emerging methodologies and tools to further enhance the efficiency and effectiveness of the design process.
 
+
 ## Getting Started
 
 1. Clone this repository.
 2. Open the `CS 255_Business_Requirements_Document_marc_a.docx` file to understand DriverPass's needs.
 3. Explore the `uml_diagrams` folder containing Lucidchart files representing the system design.
 4. Review the `client_presentation.pptx` file for a clear explanation of the system aimed at a non-technical audience.
+
+* **Non-Technical Presentation (Slides):** A clear and concise presentation explaining the system to DriverPass stakeholders.
 
 **Note:** Since this project focuses on non-technical aspects, the "Technical Details" section is omitted.
